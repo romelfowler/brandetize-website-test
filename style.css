@@ -506,7 +506,10 @@ nav > div a.nav-item.nav-link.active {
     #accordion > div > div > div:nth-child(2) > img {
         margin-top: 40px;
     }
-   
+    #carousel h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
     
     #agenda h2 {
         font-size: 2rem;
